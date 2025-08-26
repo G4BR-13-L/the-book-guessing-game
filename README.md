@@ -17,7 +17,7 @@ Make sure you have [Rust](https://www.rust-lang.org/tools/install) installed.
 Then, clone the repository and run the project with Cargo:
 
 ```bash
-git clone https://github.com/your-username/guessing-game.git
+git clone https://github.com/G4BR-13-L/the-book-guessing-game.git
 cd guessing-game
 cargo run
 ```
